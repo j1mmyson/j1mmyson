@@ -1,6 +1,3 @@
-### Wook-2
-
-
 [![Wook-2's github stats](https://github-readme-stats.vercel.app/api?username=Wook-2&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/Wook-2)
 
 
