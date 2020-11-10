@@ -7,6 +7,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wook-2&langs_count=10&theme=tokyonight&layout=compact" alt="Wook-2 :: Top Langs" /></p>
 
 <h4>Profile stats :musical_keyboard:</h4>
+
 [![Wook-2's github stats](https://github-readme-stats.vercel.app/api?username=Wook-2&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/Wook-2)
 
 
