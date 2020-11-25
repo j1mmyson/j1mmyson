@@ -4,7 +4,7 @@
 
 <h4>Top langs :tongue:</h4>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wook-2&langs_count=6&theme=tokyonight&layout=compact" alt="Wook-2 :: Top Langs" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wook-2&langs_count=8&theme=tokyonight&layout=compact" alt="Wook-2 :: Top Langs" /></p>
 
 <h4>Profile stats :musical_keyboard:</h4>
 
