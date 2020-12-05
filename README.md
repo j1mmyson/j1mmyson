@@ -2,8 +2,6 @@
 
 <p><img src="https://profile-counter.glitch.me/{Wook-2}/count.svg" alt="Wook-2 :: Visitor's Count" /></p>
 
-![](https://komarev.com/ghpvc/?username=Wook-2)
-
 <h4>Top langs :tongue:</h4>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wook-2&langs_count=8&theme=tokyonight&layout=compact" alt="Wook-2 :: Top Langs" /></p>
