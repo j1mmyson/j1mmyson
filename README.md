@@ -1,6 +1,7 @@
 <h4>Visitor's count :eyes:</h4>
 
 <p><img src="https://profile-counter.glitch.me/{Wook-2}/count.svg" alt="Wook-2 :: Visitor's Count" /></p>
+![](https://komarev.com/ghpvc/?username=Wook-2)
 
 <h4>Top langs :tongue:</h4>
 
