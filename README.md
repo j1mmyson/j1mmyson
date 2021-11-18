@@ -8,7 +8,7 @@
 
 <h4>Profile stats :musical_keyboard:</h4>
 
-[![j1mmyson's github stats](https://github-readme-stats.vercel.app/api?username=j1mmyson&hide=html&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/j1mmyson)
+[![j1mmyson's github stats](https://github-readme-stats.vercel.app/api?username=j1mmyson&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/j1mmyson)
 
 
 
