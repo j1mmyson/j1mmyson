@@ -11,7 +11,7 @@
 [![j1mmyson's github stats](https://github-readme-stats.vercel.app/api?username=j1mmyson&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/j1mmyson)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-132-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-134-blue)
 
 **🐱 저의 GitHub 정보에요.** 
 
@@ -54,11 +54,13 @@
 ⌚︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               2 hrs 1 min         ████████████████████████░   99.29% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
+TypeScript               4 hrs 15 mins       ████████████████████████░   97.93% 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.98% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 에디터들: 
-VS Code                  2 hrs 2 mins        █████████████████████████   100.0%
+VS Code                  4 hrs 20 mins       █████████████████████████   100.0%
 
 ```
 
@@ -79,5 +81,5 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/j1mmyson/j1mmyson/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/08/2022 02:34:29 UTC
+ Last Updated on 17/08/2022 02:41:40 UTC
 <!--END_SECTION:waka-->
