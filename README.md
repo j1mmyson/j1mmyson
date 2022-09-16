@@ -11,7 +11,7 @@
 [![j1mmyson's github stats](https://github-readme-stats.vercel.app/api?username=j1mmyson&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/j1mmyson)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 저의 GitHub 정보에요.** 
 
@@ -82,5 +82,5 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/j1mmyson/j1mmyson/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/09/2022 02:57:20 UTC
+ Last Updated on 16/09/2022 03:00:10 UTC
 <!--END_SECTION:waka-->
