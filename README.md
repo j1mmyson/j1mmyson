@@ -11,7 +11,7 @@
 [![j1mmyson's github stats](https://github-readme-stats.vercel.app/api?username=j1mmyson&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/j1mmyson)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2032%20mins-blue)
 
 **저는 아침형 인간이에요. 🐤** 
 
@@ -51,5 +51,5 @@ TypeScript               7 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 23/09/2022 02:49:05 UTC
+ Last Updated on 24/09/2022 02:51:20 UTC
 <!--END_SECTION:waka-->
