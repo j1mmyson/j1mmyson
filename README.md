@@ -11,7 +11,7 @@
 [![j1mmyson's github stats](https://github-readme-stats.vercel.app/api?username=j1mmyson&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/j1mmyson)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%206%20mins-blue)
 
 **저는 아침형 인간이에요. 🐤** 
 
@@ -42,11 +42,13 @@
 ⌚︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Go                       1 hr 31 mins        █████████████░░░░░░░░░░░░   53.18% 
-Python                   1 hr 20 mins        ███████████░░░░░░░░░░░░░░   46.82%
+Go                       2 hrs 6 mins        ████████████░░░░░░░░░░░░░   50.28% 
+Python                   2 hrs 2 mins        ████████████░░░░░░░░░░░░░   48.74% 
+C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.69% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
 
 ```
 
 
- Last Updated on 18/10/2022 02:48:56 UTC
+ Last Updated on 19/10/2022 02:46:02 UTC
 <!--END_SECTION:waka-->
