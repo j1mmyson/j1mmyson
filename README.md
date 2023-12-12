@@ -2,7 +2,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bwson98)](https://solved.ac/bwson98)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j1mmyson&hide=html&langs_count=8&theme=tokyonight&layout=compact" alt="j1mmyson :: Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j1mmyson&hide=html,CSS&langs_count=8&theme=tokyonight&layout=compact" alt="j1mmyson :: Top Langs" />
 
 [![j1mmyson's github stats](https://github-readme-stats.vercel.app/api?username=j1mmyson&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/j1mmyson)
 
