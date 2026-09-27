@@ -1,8 +1,33 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fj1mmyson&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bwson98)](https://solved.ac/bwson98)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j1mmyson&hide=html,CSS&langs_count=8&theme=tokyonight&layout=compact" alt="j1mmyson :: Top Langs" />
+# 손병욱 · Byungwook Son
 
-[![j1mmyson's github stats](https://github-readme-stats.vercel.app/api?username=j1mmyson&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/j1mmyson)
+성능 검증, 테스트 플랫폼, 관측 환경을 만드는 엔지니어입니다.
+현재 넷마블 TPM실 아키텍처최적화팀에서 신규 게임과 플랫폼 서비스의 안정적인 론칭을 위한 성능 검증을 수행하고 있습니다. Kubernetes 기반 부하 테스트 환경을 운영하고, 개발팀이 직접 사용할 수 있는 성능 테스트 콘솔을 개발·유지보수합니다.
 
+
+## 현재 맡은 임무
+
+- 게임·플랫폼 서비스 성능 검증 및 부하 모델 설계
+- Kubernetes, k6 Operator 기반 분산 부하 테스트
+- Prometheus·Grafana 기반 성능 메트릭 및 관측 환경
+- RDBMS·Redis 병목 분석과 확장성 검증
+- AI 에이전트를 활용한 개발·배포 및 성능 검증 업무 자동화
+
+## 관심 분야
+
+- B2C 서비스 개발,운영
+- 기획>설계>의사결정 기여
+- 실질적 가치 창출
+
+## Tech
+
+`k6` `k6 Operator` `LoadRunner` `Kubernetes` `Prometheus` `Grafana` `Linux` `golang`  
+`Java` `TypeScript` `C++` `.NET` `RDBMS` `Redis` `Python` `Flask` `Docker`
+
+
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/byungwook-son-12271a200/)
+- [Devlog](https://j1mmyson.github.io/)
